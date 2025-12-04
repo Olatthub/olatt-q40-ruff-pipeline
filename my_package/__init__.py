@@ -1,3 +1,3 @@
 def add(a: int, b: int) -> int:
-    """Return the sum of a and b."""
+    x = 1
     return a + b
