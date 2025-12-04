@@ -1,0 +1,9 @@
+[project]
+name = "olatt-q40-package"
+version = "0.1.0"
+description = "Minimal package for Software Development Question 40 by Olatt"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
